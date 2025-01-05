@@ -51,11 +51,11 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 
 ## 💡 Key Insights
 
-* Jaipur: Contributes the highest to Trips (18%) and Revenue (₹37.2M, 34%) but relies heavily on New Passengers (80%).  
-* Lucknow: Ranks second in Trips (15%) but has low Revenue due to poor Ratings and lower Average Fare Per Trip.  
-* Mysore: Small contributor (4% of Trips) but exceeds Trip Targets by 20%, demonstrating high efficiency and satisfaction (Ratings above 8.0).  
-* Surat: Leads in Repeat Passenger Rate (42%) but struggles with Low Ratings due to lower fares.  
-* Seasonal Trends: Trips peaked in February and March, declining steadily afterwards, but Repeat Passenger loyalty increased during off-peak months.
+* **Jaipur:** Contributes the highest to Trips (18%) and Revenue (₹37.2M, 34%) but relies heavily on New Passengers (80%).  
+* **Lucknow:** Ranks second in Trips (15%) but has low Revenue due to poor Ratings and lower Average Fare Per Trip.  
+* **Mysore:** Small contributor (4% of Trips) but exceeds Trip Targets by 20%, demonstrating high efficiency and satisfaction (Ratings above 8.0).  
+* **Surat:** Leads in Repeat Passenger Rate (42%) but struggles with Low Ratings due to lower fares.  
+* **Seasonal Trends:** Trips peaked in February and March, declining steadily afterwards, but Repeat Passenger loyalty increased during off-peak months.
 
 ## 📎 Links
 
