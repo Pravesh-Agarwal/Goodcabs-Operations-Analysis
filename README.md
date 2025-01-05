@@ -38,6 +38,6 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 
 ![City Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/City%20Dashboard.png)
 
-## 👥 Passenger Dashboard
+## 👨‍👩‍👧 Passenger Dashboard
 
 ![Passenger Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Passenger%20Dashboard.png)
