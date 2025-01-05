@@ -1,4 +1,4 @@
-# Goodcabs-Operations-Analysis
+# 🚕 Goodcabs-Operations-Analysis
 
 This repository contains resources for analyzing and improving Goodcabs' operations in tier-2 cities across India. It includes:
 
@@ -26,3 +26,18 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 
 ![Data Model](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Data%20Model.png)
 
+## 🏠 Login Page
+
+![Login Page](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Login%20Page.png)
+
+## 📊 Executive Dashboard
+
+![Executive Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Executive%20Dashboard.png)
+
+## 🏙️ City Dashboard
+
+![City Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/City%20Dashboard.png)
+
+## 👥 Passenger Dashboard
+
+![Passenger Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Passenger%20Dashboard.png)
