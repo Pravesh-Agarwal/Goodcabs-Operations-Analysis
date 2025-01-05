@@ -35,7 +35,7 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 - **Data Visualization**: Power BI  
 - **Data Analysis**: SQL  
 - **Data Modeling**: Snowflake schema  
-- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Canva.
+- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
 ## 📋 Data Summary
 
