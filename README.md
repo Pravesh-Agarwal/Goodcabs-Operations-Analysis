@@ -67,7 +67,7 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 
 ## 📎 Links
 
-### 💼 [Linkedin Post]()
+### 💼 [Linkedin Post](https://www.linkedin.com/posts/pravesh-agarwal27_rpc13-codebasics-codebasicsresumeprojectchallenge-activity-7281602955978420224-dEcn?utm_source=share&utm_medium=member_desktop)
 
 ### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmY4ZWVjZWItYWQ1MC00ODliLThhZjAtOWYxYjZhMWEzZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7215aff20df6b576b6e5)
 
