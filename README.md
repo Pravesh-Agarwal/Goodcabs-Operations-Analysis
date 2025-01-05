@@ -15,6 +15,13 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 * Vision:
     * To become the leading cab service in tier-2 cities while maintaining a balance between profitability and community support.
 
+## 👩‍💻 Tech Stack
+
+- **Data Visualization**: Power BI  
+- **Data Analysis**: SQL  
+- **Data Modeling**: Snowflake schema  
+- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Canva.
+
 
 ## 🎯 Objective
 
@@ -41,3 +48,19 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 ## 👨‍👩‍👧 Passenger Dashboard
 
 ![Passenger Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Passenger%20Dashboard.png)
+
+## 💡 Key Insights
+
+* Jaipur: Contributes the highest to Trips (18%) and Revenue (₹37.2M, 34%) but relies heavily on New Passengers (80%).  
+* Lucknow: Ranks second in Trips (15%) but has low Revenue due to poor Ratings and lower Average Fare Per Trip.  
+* Mysore: Small contributor (4% of Trips) but exceeds Trip Targets by 20%, demonstrating high efficiency and satisfaction (Ratings above 8.0).  
+* Surat: Leads in Repeat Passenger Rate (42%) but struggles with Low Ratings due to lower fares.  
+* Seasonal Trends: Trips peaked in February and March, declining steadily afterwards, but Repeat Passenger loyalty increased during off-peak months.
+
+## 📎 Links
+
+### 💼 [Linkedin Post]()
+
+### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmY4ZWVjZWItYWQ1MC00ODliLThhZjAtOWYxYjZhMWEzZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7215aff20df6b576b6e5)
+
+### 🖥️ [Presentation](https://youtu.be/eE4uxsI4Juw)
