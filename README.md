@@ -24,4 +24,5 @@ This repository contains resources for analyzing and improving Goodcabs' operati
 
 ## 📋 Data Summary
 
-![Data Model]()
+![Data Model](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Data%20Model.png)
+
